@@ -48,6 +48,25 @@ model calibrated specifically to IDX market structure.
 
 ---
 
+## Charts
+
+### Regime detection — USD/IDR 2010–2024
+![HMM regime timeline](assets/hmm_regime_timeline.png)
+
+### Commodity beta — DCC-GARCH vs rolling OLS
+![Commodity beta](assets/commodity_beta_dcc.png)
+
+### BI rate surprise — cumulative abnormal returns
+![BI surprise CAR](assets/bi_surprise_car.png)
+
+### Factor IC — by signal and holding period
+![Factor IC](assets/factor_ic_analysis.png)
+
+### Portfolio — cumulative return vs JCI benchmark
+![Portfolio results](assets/portfolio_results.png)
+
+---
+
 ## Modules
 
 ### Module 1 — HMM regime detection
